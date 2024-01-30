@@ -1,0 +1,38 @@
+public class Employee (
+
+// Constructor
+
+//«identification // 1.1 same name as class name
+
+// 1.2 No return Type
+
+//-purpose
+
+
+
+
+1/1.1 it creates/intializes alizes Object in Memory (RAM)
+
+//1.2 you can use constructor Block to initialize sone default values.
+
+int employeeld:
+
+int salary: String dept;
+
+Employee(int empid, int sal, String d)(
+
+employee Idenp id;
+salary-sal;
+dept= d;
+
+
+public static void main(String[] args) {
+
+Employee harshanew Employee (101, 3000, "Testing");
+
+Employee varshanew Employee (102,5000, "Engineering");
+
+System.out.println(harsha.employeeId" Salary "harsha.salary" Dept "harsha.dept); 
+  System.out.println(varsha.employeeId" Salary "varsha.salary" Dept "varsha.dept);
+}
+}
